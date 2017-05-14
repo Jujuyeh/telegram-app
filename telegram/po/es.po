@@ -988,7 +988,7 @@ msgstr "¿Está seguro de que quiere borrar el historial?"
 
 #: /telegram-app/telegram/app/qml/components/DialogsListItem.qml:232
 msgid "You: "
-msgstr "Tú:"
+msgstr "Tú: "
 
 #. TRANSLATORS: Indicates in a subtitle of a dialog list item that someone is typing.
 #. TRANSLATORS: Indicates in the chat header the contact is typing.
